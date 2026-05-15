@@ -9,7 +9,7 @@ from telegram.ext import (
 )
 
 # Telegram Bot Token
-TOKEN = "YOUR_BOT_TOKEN"
+TOKEN = "8755118440:AAGmpVErk7E133E2aCf4MCEA-_qZxnnKl-c"
 
 # Your Instagram API
 API_URL = "https://xeon-insta-api.koyeb.app/pin?msg="
